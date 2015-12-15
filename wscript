@@ -18,9 +18,8 @@ def configure(conf):
 
 def build(bld):
     print "build"
+    bld.install_as('${PREFIX}/bin/mulsum','mulsum.py')
+    os.system('chmod +x /usr/local/bin/mulsum')
 
-def install(ctx):
-    ctx.install_as('${PREFIX}/bin/mulsum','mulsum.py')
-    os.system('chmod +x /usr/local/bin/kuku')
 def shutdown(ctx):
     print "shutdown"

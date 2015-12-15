@@ -1,5 +1,6 @@
-#mulsum
 [![Build Status](https://travis-ci.org/MuraseTomohiro/binfowork.svg)](https://travis-ci.org/MuraseTomohiro/binfowork)
+#mulsum
+This software is homework about "Advanced Bioinformatics Programming I" and makes addition table or multiplication table
 #Install
 ```bash
 ./waf configure build

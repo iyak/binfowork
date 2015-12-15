@@ -1,7 +1,5 @@
 #mulsum
 [![Build Status](https://travis-ci.org/MuraseTomohiro/binfowork.svg)](https://travis-ci.org/MuraseTomohiro/binfowork)
-#Lisence
-
 #Install
 ```bash
 ./waf configure build
@@ -18,3 +16,6 @@ mulsum -s 3 5
   2 |   3   4   5   6   7 
   3 |   4   5   6   7   8 
 ```
+#Licence
+This software is released under the MIT License.
+You can get more details by seeing LICENSE.txt

@@ -1,5 +1,5 @@
 #mulsum
-
+[![Build Status](https://travis-ci.org/MuraseTomohiro/binfowork.svg)](https://travis-ci.org/MuraseTomohiro/binfowork)
 #Lisence
 
 #Install

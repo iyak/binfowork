@@ -20,7 +20,7 @@ def build(bld):
     print "build"
 
 def install(ctx):
-    ctx.install_as('${PREFIX}/bin/kuku','test.py')
+    ctx.install_as('${PREFIX}/bin/mulsum','mulsum.py')
     os.system('chmod +x /usr/local/bin/kuku')
 def shutdown(ctx):
     print "shutdown"

@@ -2,5 +2,4 @@ language: python
 python:
     - 2.7
 script:
-    - python mulsum.py 3 5
-    - python mulsum.py -s 3 5
+    - python mulsum_test.py -v

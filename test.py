@@ -1,7 +1,10 @@
-#!usr/bin/env python
-
+#!/usr/bin/env python
+import argparse
 import sys
 
+#parser = argparse.ArgumentParser()
+#parser.add_argument('--foo', help='foo help')
+#args = parser.parse_args()
 if len(sys.argv) <= 2:
     print >> sys.stderr,"Useage: test <integer> <integer>"
     sys.exit

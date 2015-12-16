@@ -9,10 +9,12 @@ This software is homework about "Advanced Bioinformatics Programming I" and make
 #Useage
 ```bash
 mulsum 3 5
+multable
   1 |   1   2   3   4   5 
   2 |   2   4   6   8  10 
   3 |   3   6   9  12  15 
 mulsum -s 3 5
+sumtable
   1 |   2   3   4   5   6 
   2 |   3   4   5   6   7 
   3 |   4   5   6   7   8 

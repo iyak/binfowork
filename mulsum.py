@@ -20,6 +20,10 @@ if __name__ == "__main__":
     x = args.first_integer
     y = args.second_integer
     mode = args.sum
+    if mode == 1:
+        print 'sumtable'
+    else:
+        print 'multable'
     for i in range(1,x+1):
         print "{0:3d}".format(i),'|',
         for j in range(1,y+1):

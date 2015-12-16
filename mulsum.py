@@ -2,14 +2,7 @@
 import argparse
 import sys
 import doctest
-
-def add(a,b):
-    c = a+b
-    return c
-
-def mult(a,b):
-    c = a*b
-    return c
+from operator import add, mul
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -30,6 +23,6 @@ if __name__ == "__main__":
             if mode == 1:
                 print "{0:3d}".format(add(i,j)),
             else:
-                print "{0:3d}".format(mult(i,j)),
+                print "{0:3d}".format(mul(i,j)),
         print '\n',
 

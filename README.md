@@ -22,3 +22,6 @@ sumtable
 #Licence
 This software is released under the MIT License.
 You can get more details by seeing LICENSE.txt
+#Developer's Information & Contact
+Name:Tomohiro Murase
+e-mail:murase_tomohiro_15[at]cbms.k.u-tokyo.ac.jp

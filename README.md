@@ -20,8 +20,6 @@ sumtable
   3 |   4   5   6   7   8 
 ```
 #Licence
-This software is released under the MIT License.
-You can get more details by seeing LICENSE.txt
+This software is released under the MIT License.  You can get more details by seeing LICENSE.txt
 #Developer's Information & Contact
-Name:Tomohiro Murase
-e-mail:murase_tomohiro_15[at]cbms.k.u-tokyo.ac.jp
+Name:Murase tomohiro  e-mail:murase_tomohiro_15[at]cbms.k.u-tokyo.ac.jp
